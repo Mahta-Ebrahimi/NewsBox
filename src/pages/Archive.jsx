@@ -45,6 +45,24 @@ function Archive() {
     let arrString = localStorage.getItem("archive");
     let arr = JSON.parse(arrString);
     console.log(arr);
+<<<<<<< HEAD
+    // let data = [];
+    // for (let id of arr) {
+    //     let newsFound = news.find(item => item.id == id);
+    //     if (newsFound) data.push(newsFound); 
+       
+       
+    // }
+
+    const data = [];  // declare it before the loop
+
+    if (Array.isArray(arr)) {
+        for (let id of arr) {
+            let newsFound = news.find(item => item.id == id);
+            if (newsFound) data.push(newsFound);
+        }
+    }
+=======
     let data = [];
     for (let id of arr) {
         let newsFound = news.find(item => item.id == id);
@@ -53,6 +71,7 @@ function Archive() {
        
     }
    
+>>>>>>> 3bb737c5ef328791c5b57cdefc23ed218fb05a46
 
     return (
         <>
