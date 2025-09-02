@@ -17,8 +17,8 @@ const Body = ({ type, color, text }) => {
     const styles = {
         card: css`
 			font-size: 11pt;
-			font-weight: 300;
-			height: 38px;
+			font-weight: 305;
+			height: 39px;
 			opacity: 0.8;
             width:100%;
 			overflow: hidden;

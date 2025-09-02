@@ -9,7 +9,7 @@ const Header = () => {
 
     const location = useLocation()
     return (
-        <header style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "10px" }}>
+        <header style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "11px" }}>
 
             <Link to="/archive">
              <button style={{background:"white", border:"none"}}>
