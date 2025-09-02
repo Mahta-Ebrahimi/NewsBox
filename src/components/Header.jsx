@@ -9,7 +9,11 @@ const Header = () => {
 
     const location = useLocation()
     return (
+<<<<<<< HEAD
         <header style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "11px" }}>
+=======
+        <header style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "10px" }}>
+>>>>>>> 3bb737c5ef328791c5b57cdefc23ed218fb05a46
 
             <Link to="/archive">
              <button style={{background:"white", border:"none"}}>
