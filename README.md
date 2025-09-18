@@ -4,8 +4,6 @@ Nyhedsartikler skal også kunne gemmes i et privat nyhedsarkiv. Gem funktionen b
 Fra settings panelet skal brugeren have mulighed for at administrere det kategoriserede nyhedsoverblik ved at slå visning til eller fra for nyhedskategorier. Fra settings panelet skal brugeren også kunne skifte mellem lyst og mørkt tema.
 <br>
 
-### **Varighed:**
-I har 15 arbejdsdage til praktik projektet. Praktik projektet skal senest være færdigt og afleveret onsdag d. 26/5 kl. 15:10.
 
 
 ### **Målet med opgaven er:**
